@@ -1,4 +1,21 @@
+# Note App
+
+This is a simple note-keeping web application similar to Google Keep.
+
+## Features
+
+- User Authentication and content sync
+- Create a new note
+- Search in your notes
+- Special view - Label View [all tagged notes with that label]
+- Archived Notes
+- One note can have multiple tags [up to 9 tags]
+- Toggle between background
+
+
 # Getting Started with Create React App
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
